@@ -1,29 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "Pirate",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "pirate"
-    },
-    {
-      "name": "P",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "p"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.shiver_me_timbers.pirate": "Pirate",
-      "item.shiver_me_timbers.p": "P"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",

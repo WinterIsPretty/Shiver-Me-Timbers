@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "shiver_me_timbers:blocks/xfdgcb",
-    "particle": "shiver_me_timbers:blocks/xfdgcb"
-  }
-}
