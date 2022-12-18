@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shiver_me_timbers:blocks/red",
+    "up": "shiver_me_timbers:blocks/red",
+    "north": "shiver_me_timbers:blocks/red",
+    "east": "shiver_me_timbers:blocks/red",
+    "south": "shiver_me_timbers:blocks/red",
+    "west": "shiver_me_timbers:blocks/red",
+    "particle": "shiver_me_timbers:blocks/red"
+  }
+}

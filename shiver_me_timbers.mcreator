@@ -7,13 +7,47 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rock"
+    },
+    {
+      "name": "HotRockBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_rock_block"
+    },
+    {
+      "name": "HotRock",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_rock"
+    },
+    {
+      "name": "HotRockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_rock_recipe"
+    },
+    {
+      "name": "HotRockBlockRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hot_rock_block_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.shiver_me_timbers.rock": "Rock"
+      "item.shiver_me_timbers.rock": "Rock",
+      "block.shiver_me_timbers.hot_rock_block": "Hot Rock Block",
+      "item.shiver_me_timbers.hot_rock": "Hot Rock"
     }
   },
   "foldersRoot": {

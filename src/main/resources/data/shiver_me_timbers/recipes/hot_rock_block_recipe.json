@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "1": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "2": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "3": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "4": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "5": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "6": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "7": {
+      "item": "shiver_me_timbers:hot_rock"
+    },
+    "8": {
+      "item": "shiver_me_timbers:hot_rock"
+    }
+  },
+  "result": {
+    "item": "shiver_me_timbers:hot_rock_block",
+    "count": 1
+  }
+}
