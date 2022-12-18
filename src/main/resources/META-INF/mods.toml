@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="Shiver Me Timbers"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Josh, MCreator"
+authors="WinterIsPretty"
 
 [[dependencies.shiver_me_timbers]]
     modId="minecraft"
