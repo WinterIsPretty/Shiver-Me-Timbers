@@ -7,13 +7,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pirate"
+    },
+    {
+      "name": "P",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "p"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.shiver_me_timbers.pirate": "Pirate"
+      "block.shiver_me_timbers.pirate": "Pirate",
+      "item.shiver_me_timbers.p": "P"
     }
   },
   "foldersRoot": {
