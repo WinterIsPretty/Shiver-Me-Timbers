@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "shiver_me_timbers:items/hammer"
+  }
+}

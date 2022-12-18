@@ -39,6 +39,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "hot_rock_block_recipe"
+    },
+    {
+      "name": "StoneHammer",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_hammer"
+    },
+    {
+      "name": "RockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rock_recipe"
     }
   ],
   "variable_elements": [],
@@ -47,6 +63,7 @@
     "en_us": {
       "item.shiver_me_timbers.rock": "Rock",
       "block.shiver_me_timbers.hot_rock_block": "Hot Rock Block",
+      "item.shiver_me_timbers.stone_hammer": "Stone Hammer",
       "item.shiver_me_timbers.hot_rock": "Hot Rock"
     }
   },
